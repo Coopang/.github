@@ -1,6 +1,6 @@
 # Team Coopang
 
-> Add team description
+> Add Team & Project description
 
 | Member   | Role | Github                                             | Contact                                   |
 | -------- | ---- | -------------------------------------------------- | ----------------------------------------- |
