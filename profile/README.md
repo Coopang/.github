@@ -1,6 +1,23 @@
-# Team Coopang
+# Project Name
 
-> Add Team & Project description
+> Add Project description & Team Introduction
+
+Background
+Challenge
+Solution
+Expected effects
+
+Service Introduction
+- according to the user scenario
+
+Core technology
+- AI
+- Skill set
+- Service Architecture
+
+Design System
+
+Team introduction 
 
 | Member   | Role | Github                                             | Contact                                   |
 | -------- | ---- | -------------------------------------------------- | ----------------------------------------- |
